@@ -9,7 +9,7 @@ Simply run the shell script ./type\_traits\_inspector.sh
 ###### NOTE: Providing the "std::" prefix is unnecessary.
 
 ```sh
-./type\_traits\_inspector.sh string 'char const **'
+./type_traits_inspector.sh string 'char const **'
 ```
 
 will print this:
